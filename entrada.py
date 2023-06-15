@@ -13,7 +13,7 @@ city = input("Ingresa tu ciudad/pueblo:")
 """
     Hola, soy name, tengo age años y vivo en city 
 """
-greeting = "Hola, soy {}, tengo a{} años y vivo en {}"
+greeting = "Hola, soy {}, tengo {} años y vivo en {}"
 
 print(greeting.format(name, age, city))
 
