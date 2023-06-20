@@ -22,3 +22,4 @@ print(my_string[-2])
 print(my_string[0:2])
 print(my_string[5:7])
 print(my_string[5:-1])
+
